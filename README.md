@@ -1,10 +1,4 @@
-# ros2_practice
-ros2 practice
+ROS 2 examples
+==============
 
-
-
-# References
-- [ROS 2 Documentation](https://docs.ros.org/en/rolling/index.html) 
-- [ROS 2 Tutorials](https://docs.ros.org/en/foxy/Tutorials.html) 
-- [ROS 2 - Navigation Stack(Nav2)](https://navigation.ros.org/) 
-- [Self-Driving Cars with ROS and Autoware](https://www.apex.ai/autoware-course) 
+To see some of these examples in use, visit the [ROS 2 Tutorials page](https://docs.ros.org/en/rolling/Tutorials.html).
